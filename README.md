@@ -1,11 +1,41 @@
-### Hi there 👋 I'm Saniya!
+# Hi there, I'm Saniya 👋
 
-- 👩‍🎓 First-year Electronics & Communication Engineering student at St. Johns Engineering College
-- 💻 Learning Python and exploring the world of open-source development
-- 🌱 Participating in GSSoC 2025 as a Contributor
-- 🚀 Curious to build real-world apps and improve my coding skills step-by-step
-- 🧠 Interested in building logic, apps, and contributing to beginner-friendly projects
-- 📫 Reach me at: saniya14907@gmail.com
+### Electronics & Communication Engineering Student
 
-<!-- More sections like GitHub stats, badges, and projects can be added soon -->
+I'm an ECE student interested in building practical solutions by combining
+**electronics, embedded systems, programming, and hardware prototyping.**
+
+### 🔧 Interests
+
+- Embedded Systems & Microcontrollers
+- Electronics & Circuit Design
+- PCB Design
+- Robotics & Automation
+- Sensor Interfacing
+- ESP32 & Arduino
+- Python & C/C++
+- Hardware Prototyping
+- Problem Solving through Engineering
+
+### 🌱 Currently Learning
+
+- Embedded Systems
+- PCB Design
+- Advanced Python
+- Microprocessors & Microcontrollers
+- Computer Architecture
+
+### 💡 What I Like
+
+I enjoy learning by **building, testing, debugging, and improving** real-world
+hardware and software projects.
+
+> **Build → Break → Debug → Learn → Build Better**
+
+### 🤝 Let's Connect
+
+I'm always interested in learning, collaborating, and exploring new ideas in
+**electronics, embedded systems, robotics, and technology.**
+
+[LinkedIn]https://linkedin.com/in//saniya-bandla
 
